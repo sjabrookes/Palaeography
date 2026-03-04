@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Gothic"
-permalink: /palaeography/gothic/
+permalink: /gothic/
 ---
+
 Brief introductory text here.
 
 <img src="/palaeography/images/Luttrell_Psalter_fol68v_detail_3.jpg" width="700" style="padding: 10px 0px 10px 20px;">
