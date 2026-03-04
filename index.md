@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Palaeography"
-permalink: /palaeography/
+permalink: /
 ---
 
 This site hosts manuscript images accompanying the article. 
