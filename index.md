@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Palaeography"
-permalink: /
+permalink: /palaeography/
 ---
 
-Welcome to this image repository.
-Use the navigation above to browse manuscript images by section.
+This site hosts manuscript images accompanying the article. 
+Use the navigation above to browse by script type.
