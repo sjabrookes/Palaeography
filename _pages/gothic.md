@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gothic"
-permalink: /palaeography/gothic/
+permalink: /gothic/
 ---
 Brief introductory text here.
 
