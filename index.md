@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Medieval Manuscripts"
+title: "Palaeography"
 permalink: /
 ---
 
