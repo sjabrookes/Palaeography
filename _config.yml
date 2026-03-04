@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
-title: "Medieval Manuscripts"
+title: "Palaeography"
 description: "Image gallery for manuscript studies"
-baseurl: "/MedievalManuscripts"
+baseurl: "/Palaeography"
 url: "https://sjabrookes.github.io"
 
 plugins:
