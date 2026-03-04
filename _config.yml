@@ -1,0 +1,9 @@
+remote_theme: mmistakes/minimal-mistakes
+title: "Medieval Manuscripts"
+description: "Image gallery for manuscript studies"
+baseurl: "/MedievalManuscripts"
+url: "https://sjabrookes.github.io"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
