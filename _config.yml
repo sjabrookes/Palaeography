@@ -7,3 +7,16 @@ url: "https://sjabrookes.github.io"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# Site Author
+author:
+  name: "Stewart J. Brookes"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
