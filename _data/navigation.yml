@@ -2,16 +2,16 @@ main:
 
 scripts:
   - title: "Roman"
-    #children:
-     # - title: "National Scripts"
-      #  url: /national/
+    children:
+      - title: "National Scripts"
+        url: /national/
   - title: "Insular Scripts"
-    #children:
-     # - title: "Examples"
-      #  url: /insular/
+    children:
+      - title: "Examples"
+        url: /insular/
   - title: "Caroline Minuscule"
-    #children:
-     # - title: "Examples"
+    children:
+      - title: "Examples"
   - title: "Gothic"
     children:
       - title: "Examples"
