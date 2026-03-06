@@ -1,6 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: "Home"
 description: "Image gallery for Palaeography: An Introduction"
+logo: "/assets/images/home-icon.png"
 baseurl: "/palaeography"
 url: "https://sjabrookes.github.io"
 
