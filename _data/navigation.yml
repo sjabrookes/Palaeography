@@ -9,16 +9,10 @@ scripts:
     children:
       - title: "Examples"
         url: /insular/
-      - title: "Full folios"
-        url: /insularfull/
   - title: "Caroline Minuscule"
     children:
       - title: "Examples"
-        url: /carolineminuscule/
-      - title: "Full folios"
   - title: "Gothic"
     children:
       - title: "Examplea"
         url: /gothic/
-      - title: "Full folios"
-              url: /gothicfull/
