@@ -1,11 +1,9 @@
-- title: "Roman"
-  href: "/roman/"
-  subcategories:
-    - subtitle: "National Scripts"
-      subhref: "/national/"
-- title: "Insular"
-  href: "/insular/"
-- title: "Caroline Minuscule"
-  href: "/carolineminuscule/"
-- title: "Gothic"
-  href: "/gothic/"
+main:
+  - title: "Roman"
+    url: /roman/
+  - title: "Insular"
+    url: /insular/
+  - title: "Caroline Minuscule"
+    url: /carolineminuscule/
+  - title: "Gothic"
+    url: /gothic/
