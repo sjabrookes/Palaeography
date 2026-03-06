@@ -5,15 +5,20 @@ scripts:
     children:
       - title: "National Scripts"
         url: /national/
-  - title: "Insular"
+  - title: "Insular Scripts"
     children:
-      - title: "Overview"
+      - title: "Examples"
         url: /insular/
+      - title: "Full folios"
+        url: /insularfull/
   - title: "Caroline Minuscule"
     children:
-      - title: "Overview"
+      - title: "Examples"
         url: /carolineminuscule/
+      - title: "Full folios"
   - title: "Gothic"
     children:
-      - title: "Overview"
+      - title: "Examplea"
         url: /gothic/
+      - title: "Full folios"
+              url: /gothicfull/
