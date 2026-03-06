@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Gothic"
+title: "Gothic Examples"
 permalink: /gothic/
 ---
 
