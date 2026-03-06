@@ -14,5 +14,5 @@ scripts:
      # - title: "Examples"
   - title: "Gothic"
     children:
-      - title: "Examplea"
+      - title: "Examples"
         url: /gothic/
