@@ -6,9 +6,18 @@ permalink: /gothic/
 
 <a id="figure-1"><b>Figure 1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 
-<a href="/palaeography/images/QMP_fol296v-full.jpg" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation(); event.preventDefault(); window.open(this.href, '_blank'); return false;">
+<a id="thumb-link" href="/palaeography/images/QMP_fol296v-full.jpg">
   <img src="/palaeography/images/QMP_fol296v-thumbnail.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
+
+<script>
+  document.getElementById('thumb-link').addEventListener('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    window.open(this.href, '_blank');
+  });
+</script>
 
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
