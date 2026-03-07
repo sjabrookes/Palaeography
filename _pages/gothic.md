@@ -13,7 +13,7 @@ permalink: /gothic/
 <p>preibis enim ante faciem domini · pa-<br>
 rare uias eius. <br>
 <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
-in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br
+in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br>
 <b>P</b>er uiscera misericordie dei n<i>ost</i>ri; in<br>
 quib<i>us</i> uisitauit nos oriens ex alto.</p>
 
