@@ -8,12 +8,14 @@ permalink: /gothic/
 <p>Provenance: England (London/Westminster or East Anglia?), between 1310 and 1320</p>
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<p><body bgcolor="yellow">preibis enim ante faciem domini · pa-<br>
+<body style="background-color:powderblue;">
+<p>preibis enim ante faciem domini · pa-<br>
 rare uias eius. <br>
 <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
 in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br>
 <b>P</b>er uiscera misericordie dei n<i>ost</i>ri; in<br>
-quib<i>us</i> uisitauit nos oriens ex alto.</body></p>
+quib<i>us</i> uisitauit nos oriens ex alto.</p>
+</body>
 
 <a id="figure-1"><b>Figure 1: Gothic Textura Prescissa</b></a>
 
