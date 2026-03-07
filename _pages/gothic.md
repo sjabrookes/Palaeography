@@ -4,6 +4,12 @@ title: "Gothic Examples"
 permalink: /gothic/
 ---
 
+<a id="figure-6"><b>Figure 1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
+
+<img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
+Provenance: England (London/Westminster or East Anglia?), between 1310 and 1320
+
 <a id="figure-1"><b>Figure 1: Gothic Textura Prescissa</b></a>
 
 <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px 10px 20px;">
