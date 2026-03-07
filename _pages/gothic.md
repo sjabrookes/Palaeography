@@ -6,6 +6,11 @@ permalink: /gothic/
 
 <a id="figure-1"><b>Figure 1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 <p>Provenance: England (London/Westminster or East Anglia?), between 1310 and 1320</p>
+
+<a href="/palaeography/images/QMP_fol296v-hires.jpg" target="_blank" rel="noopener noreferrer">
+  <img src="/palaeography/images/QMP_fol_296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+</a>
+
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
 <div style="background-color: powderblue; padding: 10px 20px;">
