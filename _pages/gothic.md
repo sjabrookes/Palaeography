@@ -56,7 +56,7 @@ permalink: /gothic/
   <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">domini | preibis | misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
   </div>
-The bottom of minims end slightly concave on the line. Note the cahracertistic Gothic 'biting' in 'domini' where the right-facing curve of <b>d</b> is fused with the left-facing curve of <b>o</b>, becoming a single shared vertical stroke at their point of contact; the 2-shaped <b>r</b>, e.g. after the <b>p</b> in 'preibus' and the <b>o</b> in 'misericordie'; the variant forms of <b>d</b>, with a straight-backed form in 'misericordie' and, in very close proximity, a curve-backed form in 'dei'; and the slight differecnes in <b>m</b> in the finals letters of 'p<i>e</i>cc<i>at</i>orum' `and 'eorum' (The Queen Mary Psalter, fol. 296v)
+The bottom of minims end slightly concave on the line. Note the characteristic 'biting' in 'domini' where the right-facing curve of <b>d</b> is fused with the left-facing curve of <b>o</b>; the 2-shaped <b>r</b>, e.g. after <b>p</b> in 'preibus' and <b>o</b> in 'misericordie'; the variant forms of <b>d</b>, with a straight-backed form in 'misericordie' and, in very close proximity, a curve-backed form in 'dei'; and the slight differecnes in <b>m</b> in the final letters of 'p<i>e</i>cc<i>at</i>orum' and 'eorum' (The Queen Mary Psalter, fol. 296v)
   </div>
 
 <br>
