@@ -24,7 +24,7 @@ permalink: /gothic/
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="background-color: powderblue; padding: 10px;">
-    <p>preibis enim ante faciem domini · pa-<br>
+    <p style="margin-bottom: 0;">preibis enim ante faciem domini · pa-<br>
     rare uias eius. <br>
     <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
     in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br>
@@ -32,7 +32,7 @@ permalink: /gothic/
     quib<i>us</i> uisitauit nos oriens ex alto.</p>
   </div>
 
-</div>
+  </div>
 
 <a id="figure-G2"><b>Figure G2: Gothic Textura Prescissa</b></a>
 
