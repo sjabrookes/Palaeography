@@ -34,9 +34,17 @@ quib<i>us</i> uisitauit nos oriens ex alto.</p>
 
 <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
+<div style="background-color: powderblue; padding: 10px 20px;">
+<p>partibur siccimam</p>
+</div>
+
 The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
 
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
+<div style="background-color: powderblue; padding: 10px 20px;">
+<p>domini | preibis | misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
+</div>
 
 The bottom of minims end slightly concave on the line (The Queen Mary Psalter, fol. 296v)
 
