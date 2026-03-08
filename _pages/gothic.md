@@ -45,7 +45,7 @@ permalink: /gothic/
     <p style="margin-bottom: 0;">partibor siccimam</p>
 
   </div>
-    The bottom of minims end flat on the line. Note the curved, 2-shaped form of <br>r</b> ('r rotunda') that appears after <b>o</b>; 
+    The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>; 
     the long <b>s</b>; and the hairline stroke ('tittle') placed over <b>i</b> in order to distinguish it from the <b>m</b> which follows (Luttrell Psalter, fol. 109r [check])
   </div>
 
