@@ -44,12 +44,9 @@ permalink: /gothic/
   <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">partibur siccimam</p>
 
+  </div>
     The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
   </div>
-
-  </div>
-
-<br>
 
 <div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
 
@@ -58,12 +55,10 @@ permalink: /gothic/
   <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">domini | preibis | misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
   </div>
-
+The bottom of minims end slightly concave on the line (The Queen Mary Psalter, fol. 296v)
   </div>
 
 <br>
-
-The bottom of minims end slightly concave on the line (The Queen Mary Psalter, fol. 296v)
 
 <a id="figure-G3"><b>Figure G3: Quadrata</b></a>
 
