@@ -19,8 +19,6 @@ permalink: /gothic/
   });
 </script>
 
-<img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px 10px 20px;">
-
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
 <div style="background-color: powderblue; padding: 10px 20px;">
@@ -36,7 +34,11 @@ quib<i>us</i> uisitauit nos oriens ex alto.</p>
 
 <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-The bottom of minims end flat on the line
+The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
+
+<img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
+The bottom of minims end slightly concave on the line (The Queen Mary Psalter, fol. 296v)
 
 <a id="figure-G3"><b>Figure G3: Quadrata</b></a>
 
