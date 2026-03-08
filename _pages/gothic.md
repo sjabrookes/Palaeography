@@ -43,13 +43,13 @@ permalink: /gothic/
 
   <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">partibur siccimam</p>
+
+    The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
   </div>
 
   </div>
 
 <br>
-
-The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
 
 <div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
 
