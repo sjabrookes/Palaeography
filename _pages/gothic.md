@@ -19,9 +19,9 @@ permalink: /gothic/
   });
 </script>
 
-<img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
-
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii,_fol296v_examples.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
+<img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
 <div style="background-color: powderblue; padding: 10px 20px;">
 <p>preibis enim ante faciem domini · pa-<br>
