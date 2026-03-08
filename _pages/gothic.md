@@ -33,6 +33,7 @@ permalink: /gothic/
   </div>
 
   </div>
+  <br>
 
 <a id="figure-G2"><b>Figure G2: Gothic Textura Prescissa</b></a>
 
@@ -41,10 +42,11 @@ permalink: /gothic/
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="background-color: powderblue; padding: 10px;">
-    <p style="margin-bottom: 0;">partibur siccimam</p>
+    <p style="margin-bottom: 0;">partibor siccimam</p>
 
   </div>
-    The bottom of minims end flat on the line (Luttrell Psalter, fol. 109r [check])
+    The bottom of minims end flat on the line. Note the curved, 2-shaped form of <br>r</b> ('r rotunda') that appears after <b>o</b>; 
+    the long <b>s</b>; and the hairline stroke ('tittle') placed over <b>i</b> in order to distinguish it from the <b>m</b> which follow (Luttrell Psalter, fol. 109r [check])
   </div>
 
 <div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
@@ -54,7 +56,7 @@ permalink: /gothic/
   <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">domini | preibis | misericordie dei | p<i>e</i>cc<i>at</i>orum eorum</p>
   </div>
-The bottom of minims end slightly concave on the line (The Queen Mary Psalter, fol. 296v)
+The bottom of minims end slightly concave on the line. Note the cahracertistic Gothic 'biting' in 'domini' where the right-facing curve of <b>d</b> is fused with the left-facing curve of <b>o</b>, becoming a single shared vertical stroke at their point of contact; the 2-shaped <b>r</b>, e.g. after the <b>p</b> in 'preibus' and the <b>o</b> in 'misericordie'; the variant forms of <b>d</b>, with a straight-backed form in 'misericordie' and, in very close proximity, a curve-backed form in 'dei'; and the slight differecnes in <b>m</b> in the finals letters of 'p<i>e</i>cc<i>at</i>orum' `and 'eorum' (The Queen Mary Psalter, fol. 296v)
   </div>
 
 <br>
