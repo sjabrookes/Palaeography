@@ -21,7 +21,7 @@ permalink: /gothic/
 
 <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
-<div style="background-color: powderblue; padding: 10px 10px;">
+<div style="background-color: powderblue; padding: 10px 0px;">
 <p>preibis enim ante faciem domini · pa-<br>
 rare uias eius. <br>
 <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
