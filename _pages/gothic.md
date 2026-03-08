@@ -46,7 +46,7 @@ permalink: /gothic/
 
   </div>
     The bottom of minims end flat on the line. Note the curved, 2-shaped form of <br>r</b> ('r rotunda') that appears after <b>o</b>; 
-    the long <b>s</b>; and the hairline stroke ('tittle') placed over <b>i</b> in order to distinguish it from the <b>m</b> which follow (Luttrell Psalter, fol. 109r [check])
+    the long <b>s</b>; and the hairline stroke ('tittle') placed over <b>i</b> in order to distinguish it from the <b>m</b> which follows (Luttrell Psalter, fol. 109r [check])
   </div>
 
 <div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
