@@ -4,14 +4,14 @@ title: "Gothic Examples"
 permalink: /gothic/
 ---
 
-<a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r)</b></a>
+<a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r), <i>c</i>. 1320–1340</b></a>
 
-<a id="thumb-link" href="/palaeography/images/Luttrell_Psalter_fol203r_thumb.jpg">
-  <img src="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+<a id="thumb-link" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
+  <img src="/palaeography/images/Luttrell_Psalter_fol203r.thumb.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
 
 <div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
-
+<a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r_2 [detail]), <i>c</i>. 1320–1340</b></a>
 <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
  <div style="background-color: powderblue; padding: 10px;">
@@ -25,7 +25,7 @@ cos tuos: sabellum pedum tuorum.</p>
   </div>
   <br>
 
-
+  <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
 <a id="figure-1"><b>Figure G1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 
