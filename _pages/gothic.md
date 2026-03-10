@@ -13,7 +13,7 @@ permalink: /gothic/
     d.style.display = (d.style.display === 'none') ? 'block' : 'none';
     this.textContent = (d.style.display === 'none') ? 'Reveal text' : 'Hide text';
   " style="margin: 8px 0 8px 20px; padding: 6px 14px; cursor: pointer;">
-    Reveal text
+    Show transcription
   </button>
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
