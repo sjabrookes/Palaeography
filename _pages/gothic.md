@@ -16,10 +16,10 @@ permalink: /gothic/
 
  <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">
-      <b>D</b>ixit dominus domino
-meo: sede a dextris me-
-is.
-     <b>D</b>onec ponam inimi-
+      <b>D</b>ixit dominus domino<br>
+meo: sede a dextris me-<br>
+is.<br>
+     <b>D</b>onec ponam inimi-<br>
 cos tuos: sabellum pedum tuorum.</p>
   </div>
   </div>
@@ -48,7 +48,7 @@ cos tuos: sabellum pedum tuorum.</p>
 
   <div style="background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">preibis enim ante faciem domini · pa-<br>
-    rare uias eius. <br>
+    rare uias eius.<br>
     <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
     in remissione<i>m</i> p<i>e</i>cc<i>at</i>orum eorum<br>
     <b>P</b>er uiscera misericordie dei n<i>ost</i>ri; in<br>
