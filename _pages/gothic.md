@@ -4,6 +4,17 @@ title: "Gothic Examples"
 permalink: /gothic/
 ---
 
+<a id="figure-1"><b>Figure G1: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r)</b></a>
+
+<a id="thumb-link" href="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg">
+  <img src="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+</a>
+
+
+<img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
+<img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
+
 <a id="figure-1"><b>Figure G1: The Queen Mary Psalter (British Library, Royal MS 2 B. vii, fol. 296v)</b></a>
 
 <a id="thumb-link" href="/palaeography/images/QMP_fol296v-full.jpg">
