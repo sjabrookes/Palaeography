@@ -10,6 +10,7 @@ permalink: /gothic/
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
 
+<img src="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
 <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
