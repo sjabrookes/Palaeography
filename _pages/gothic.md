@@ -10,6 +10,8 @@ permalink: /gothic/
   <img src="/palaeography/images/Luttrell_Psalter_fol203r_full.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 </a>
 
+<div style="max-width: 700px; margin: 0; padding: 0 0 0 20px;">
+
 <img src="/palaeography/images/Luttrell_Psalter_fol203r_2.jpg" width="700" style="padding: 10px 0px 10px 20px;">
 
  <div style="background-color: powderblue; padding: 10px;">
@@ -20,6 +22,8 @@ is.
      <b>D</b>onec ponam inimi-
 cos tuos: sabellum pedum tuorum.</p>
   </div>
+  </div>
+  <br>
 
 
 
