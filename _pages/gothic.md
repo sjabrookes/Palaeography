@@ -27,10 +27,7 @@ permalink: /gothic/
     </p>
   </div>
 </div>
-
-<div style="max-width: 700px; margin: 0; padding: 0;">
-  
-</div>
+<br>
 
 <a id="figure-G2"><b>Figure G2: The Luttrell Psalter (British Library, Add. MS. 42130, fol. 203r [detail]), <i>c</i>. 1320–1340</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
