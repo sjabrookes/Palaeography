@@ -103,16 +103,45 @@ permalink: /gothic/
 
 <br>
 
-<a id="figure-G2-prescissa"><b>Figure G2: Gothic Textura Prescissa</b></a>
+
+*****
+
+<a id="figure-G5-prescissa"><b>Figure G5: Gothic Textura Prescissa</b></a>
+<p>(Luttrell Psalter, fol. 109r [check])</p>
+
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
+  </a>
+  <script>
+    document.getElementById('thumb-link-2').addEventListener('click', function(e) {
+      e.preventDefault();
+      window.open(this.href, '_blank');
+    });
+  </script>
 
-  <div style="background-color: powderblue; padding: 10px;">
-    <p style="margin-bottom: 0;">partibor siccimam</p>
+  <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
+
+  <button onclick="
+    var d = this.nextElementSibling;
+    d.style.display = (d.style.display === 'none') ? 'block' : 'none';
+    this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+    Show transcription
+  </button>
+
+  <div style="display: none; background-color: powderblue; padding: 10px;">
+    <p style="margin-bottom: 0;">preibis enim ante faciem domini · pa-<br>
+    rare uias eius.<br>
+    <b>partibor siccimam<br>
+
+     <p>The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>;
+  the long <b>s</b>; and the hairline stroke ('tittle') placed over the second <b>i</b> in 'siccimam' in order to distinguish it from the <b>m</b> which follows.</p>
+
+    
   </div>
 
-  <p>The bottom of minims end flat on the line. Note the curved, 2-shaped form of <b>r</b> ('r rotunda') that appears after <b>o</b>;
-  the long <b>s</b>; and the hairline stroke ('tittle') placed over the second <b>i</b> in 'siccimam' in order to distinguish it from the <b>m</b> which follows (Luttrell Psalter, fol. 109r [check])</p>
+    <img src="/palaeography/images/prescissa-bilinear.jpg" width="700" style="padding: 10px 0px; display: block;">
+
 </div>
 
 <br>
