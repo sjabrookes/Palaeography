@@ -25,9 +25,11 @@ permalink: /gothic/
   </button>
 </div>
 
-<a id="figure-G1"><b>Figure G1: The Queen Mary Psalter (British Library, Add. MS. 42130, fol. 296v [detail])</b></a>
+<br>
+
+<a id="figure-G1"><b>Figure G1b: The Queen Mary Psalter (British Library, Add. MS. 42130, fol. 296v [detail])</b></a>
 <div style="max-width: 700px; margin: 0; padding: 0;">
-  <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
+  <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_domini_fol296v" width="700" style="padding: 10px 0px; display: block;">
 
   <div style="display: none; background-color: powderblue; padding: 10px;">
     <p style="margin-bottom: 0;">
