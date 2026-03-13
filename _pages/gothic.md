@@ -10,7 +10,7 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_minims_fol296v.jpg" width="500" style="padding: 10px 0px; display: block;">
 
-  <div style="display: none; background-color: powderblue; padding: 10px; display: inline-block;">
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       ínímícum meum
     </p>
@@ -18,9 +18,9 @@ permalink: /gothic/
 
   <button onclick="
     var d = this.previousElementSibling;
-    d.style.display = (d.style.display === 'none') ? 'inline-block' : 'none';
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
     this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
-  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
     Show transcription
   </button>
 </div>
@@ -31,7 +31,7 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_domini_fol296v.jpg" width="275" style="padding: 10px 0px; display: block;">
 
-  <div style="display: none; background-color: powderblue; padding: 10px; display: inline-block;">
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       domini
     </p>
@@ -39,9 +39,9 @@ permalink: /gothic/
 
   <button onclick="
     var d = this.previousElementSibling;
-    d.style.display = (d.style.display === 'none') ? 'inline-block' : 'none';
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
     this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
-  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
     Show transcription
   </button>
 </div>
@@ -52,7 +52,7 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol145r_detail_1.jpg" width="700" style="padding: 10px 0px; display: block;">
 
-  <div style="display: none; background-color: powderblue; padding: 10px; display: inline-block;">
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       <b>E</b>t percussit ínímícos suos ín pos-<br>
       teriora: opprobrium sempiternu<i>m</i>
@@ -61,9 +61,9 @@ permalink: /gothic/
 
   <button onclick="
     var d = this.previousElementSibling;
-    d.style.display = (d.style.display === 'none') ? 'inline-block' : 'none';
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
     this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
-  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
     Show transcription
   </button>
 </div>
@@ -74,7 +74,7 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/Luttrell_Psalter_fol203r.jpg" width="700" style="padding: 10px 0px; display: block;">
 
-  <div style="display: none; background-color: powderblue; padding: 10px; display: inline-block;">
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       <b>D</b>ixit dominus domino<br>
       meo: sede a dextris me-<br>
@@ -86,9 +86,9 @@ permalink: /gothic/
 
   <button onclick="
     var d = this.previousElementSibling;
-    d.style.display = (d.style.display === 'none') ? 'inline-block' : 'none';
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
     this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
-  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
     Show transcription
   </button>
 </div>
@@ -126,7 +126,7 @@ permalink: /gothic/
 
   <img src="/palaeography/images/QMP_Royal_MS_2_B_vii_fol296v.jpg" width="700" style="padding: 10px 0px; display: block;">
 
-  <div style="display: none; background-color: powderblue; padding: 10px; display: inline-block;">
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">preibis enim ante faciem domini · pa-<br>
     rare uias eius.<br>
     <b>A</b>d dandam sciencia<i>m</i> salutis plebi ei<i>us</i>;<br>
@@ -137,9 +137,9 @@ permalink: /gothic/
 
   <button onclick="
     var d = this.previousElementSibling;
-    d.style.display = (d.style.display === 'none') ? 'inline-block' : 'none';
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
     this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
-  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
     Show transcription
   </button>
 </div>
@@ -151,15 +151,15 @@ permalink: /gothic/
 <div style="max-width: 700px; margin: 0; padding: 0;">
   <img src="/palaeography/images/prescissa.jpg" width="700" style="padding: 10px 0px; display: block;">
 
-  <div style="display: none; background-color: powderblue; padding: 10px; display: inline-block;">
+  <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;"><b>p</b>artibor siccimam</p>
   </div>
 
   <button onclick="
     var d = this.previousElementSibling;
-    d.style.display = (d.style.display === 'none') ? 'inline-block' : 'none';
+    d.style.display = (d.style.display === 'none') ? d.dataset.show : 'none';
     this.textContent = (d.style.display === 'none') ? 'Show transcription' : 'Hide transcription';
-  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer;">
+  " style="margin: 8px 0; padding: 6px 14px; cursor: pointer; display: block;">
     Show transcription
   </button>
 
