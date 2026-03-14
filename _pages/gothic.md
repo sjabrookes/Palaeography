@@ -102,8 +102,8 @@ permalink: /gothic/
   <div style="display: none; background-color: powderblue; padding: 10px;" data-show="inline-block">
     <p style="margin-bottom: 0;">
       animam meam.<br>
-      <b>G</b>loria patri-<br>
-      Dominus Galfridus louterell me fieri<br>
+      <b>G</b>loria patri<br>
+      D<i>omi</i>n<i>u</i>s Galfridus louterell me fieri<br>
       fecit
     </p>
   </div>
